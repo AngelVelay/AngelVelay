@@ -1,7 +1,6 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2016/11/30/20/44/computer-1873831_960_720.png" alt="cover" />
+<img width="100%" height = "250px" src="https://user-images.githubusercontent.com/26851737/150870115-dd517980-787b-4352-bbaf-2adb3ead0b8c.gif" alt="cover" />
 </div>
-
 <h1> Hello < Im`Angel Velay/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
