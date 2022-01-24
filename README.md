@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://user-images.githubusercontent.com/26851737/150870935-0e1089c4-d7ee-4694-8f93-cf3d93cc5c91.gif" alt="cover" />
 </div>
-<h1> Hello < Im`Angel Velay />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello <Im`Angel Velay />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 
