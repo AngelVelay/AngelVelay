@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://user-images.githubusercontent.com/26851737/150870935-0e1089c4-d7ee-4694-8f93-cf3d93cc5c91.gif" alt="cover" />
 </div>
-<h1> Hello < Im`Angel Velay/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello < Im`Angel Velay />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 
@@ -15,11 +15,11 @@
 <img width="40%" height="50%" align="right" alt="Github" src="https://media4.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif?cid=ecf05e47bwqj775wct49o0zfrhxg7jx2572ocvbkcg64lgvn&rid=giphy.gif&ct=g" />
 
 
-- 🎓Recent computer engineer graduate from FES-Aragón|UNAM 
+- 🎓Recent computer engineer graduate from FES-Aragón | UNAM 
   
 - 🔭 I’m currently working on some projects , you can see them visiting my Portfolio : [PORTFOLIO](https://angel-velay-resume.netlify.app/ "portfolio")
 
-- 🌱 I’m currently learning REACT JS , SpringBoot,REDUX, Machine Leraning
+- 🌱 I’m currently learning REACT JS,SpringBoot,REDUX, Machine Leraning
 
 - 👯 My current goal is to find a place where I can grow professionally while I keep learning. 
 
