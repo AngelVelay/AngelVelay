@@ -19,7 +19,7 @@
   
 - 🔭 I’m currently working on some projects , you can see them visiting my Portfolio : [PORTFOLIO](https://angel-velay-resume.netlify.app/ "portfolio")
 
-- 🌱 I’m currently learning REACT JS , GRAPQL, REDUX, Machine Leraning
+- 🌱 I’m currently learning REACT JS , SpringBoot,REDUX, Machine Leraning
 
 - 👯 My current goal is to find a place where I can grow professionally while I keep learning. 
 
@@ -73,5 +73,4 @@ src="https://user-images.githubusercontent.com/26851737/150866226-f00e4ccd-bb5c-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelVelay&theme=default" />
 </a>
 
-![gmail](https://user-images.githubusercontent.com/26851737/150866938-e82a7546-8dd6-4d8c-9305-4e2b2288e4c7.png)
 
