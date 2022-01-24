@@ -16,6 +16,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
+- 🎓Recent computer engineer graduate from FES-Aragón|UNAM 
+  
 - 🔭 I’m currently working on some projects , you can see them visiting my Portfolio : [PORTFOLIO](https://angel-velay-resume.netlify.app/ "portfolio")
 
 - 🌱 I’m currently learning REACT JS , GRAPQL, REDUX, Machine Leraning
@@ -32,6 +34,26 @@
 <a href= https://github.com/AngelVelay?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/AngelVelay?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/AngelVelay?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+  
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript,Python, Java,],
+   technologies: {
+      frontEnd: {
+         js: ["React","React Native"],
+         css: ["Material UI", "Bootstrap", "Material Design","Styled Components"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"]
+      },
+      databases: ["MongoDB", "MySQL"]]
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+```
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
