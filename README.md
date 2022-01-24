@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on some projects , you can see them visiting my Portfolio : [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+- 🔭 I’m currently working on some projects , you can see them visiting my Portfolio : [PORTFOLIO](https://angel-velay-resume.netlify.app/ "portfolio")
 
 - 🌱 I’m currently learning REACT JS , GRAPQL, Machine Leraning 
 
