@@ -56,9 +56,12 @@ const AngelVelay = {
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/angelvelay'> <img width = '32px' align= 'center' paddin='2px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.github.com/AngelVelay'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'mailto:velayangel@gmail.com'> <img width = '32px' align= 'center' 
+src="https://user-images.githubusercontent.com/26851737/150866938-e82a7546-8dd6-4d8c-9305-4e2b2288e4c7.png"/></a> 
 <a href = 'https://angel-velay-resume.netlify.app/'> <img width = '32px' align= 'center' 
 src="https://user-images.githubusercontent.com/26851737/150866226-f00e4ccd-bb5c-4ff5-8772-cd202d6f77b6.png"/></a> 
-<a href = 'https://www.github.com/AngelVelay'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
@@ -70,4 +73,5 @@ src="https://user-images.githubusercontent.com/26851737/150866226-f00e4ccd-bb5c-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelVelay&theme=default" />
 </a>
 
+![gmail](https://user-images.githubusercontent.com/26851737/150866938-e82a7546-8dd6-4d8c-9305-4e2b2288e4c7.png)
 
