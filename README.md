@@ -12,7 +12,7 @@
 </div>
 
 
-<img width="55%" align="right" alt="Github" src="https://assets6.lottiefiles.com/private_files/lf30_wqypnpu5.json" />
+<img width="55%" align="right" alt="Github" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 
 - 🎓Recent computer engineer graduate from FES-Aragón|UNAM 
