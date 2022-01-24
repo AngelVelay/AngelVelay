@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2016/11/30/20/44/computer-1873831_960_720.png" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello < Im`Angel Velay/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AngelVelay.AngelVelay)
@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on some projects , you can see them visiting my Portfolio
+- 🔭 I’m currently working on some projects , you can see them visiting my Portfolio : [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 - 🌱 I’m currently learning REACT JS , GRAPQL, Machine Leraning 
 
@@ -56,7 +56,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelVelay&theme=default" />
 </a>
 
-
-
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
