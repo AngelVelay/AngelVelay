@@ -58,7 +58,7 @@ const AngelVelay = {
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/angelvelay'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://angel-velay-resume.netlify.app/'> <img width = '32px' align= 'center' 
-src="https://user-images.githubusercontent.com/26851737/150865798-e1b499c8-64a1-4ce0-854e-63e191720e2a.svg"/></a> 
+src="https://user-images.githubusercontent.com/26851737/150866045-61a4671c-01aa-4a92-af63-fd6197b094ac.png"/></a> 
 <a href = 'https://www.github.com/AngelVelay'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
@@ -71,4 +71,5 @@ src="https://user-images.githubusercontent.com/26851737/150865798-e1b499c8-64a1-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelVelay&theme=default" />
 </a>
 
+![portfolio-suitcase_icon-icons com_52927](https://user-images.githubusercontent.com/26851737/150866045-61a4671c-01aa-4a92-af63-fd6197b094ac.png)
 
