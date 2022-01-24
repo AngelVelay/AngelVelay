@@ -12,7 +12,7 @@
 </div>
 
 
-<img width="40%" align="right" alt="Github" src="https://user-images.githubusercontent.com/26851737/150862270-6121d0b0-018b-4e08-8c1a-cab5597a4545.gif" />
+<img width="40%" align="right" alt="Github" src="https://user-images.githubusercontent.com/26851737/150862969-22d9eea6-9ff8-4aed-b4c7-da64bc22486b.gif" />
 
 
 - 🎓Recent computer engineer graduate from FES-Aragón|UNAM 
@@ -69,4 +69,5 @@ const AngelVelay = {
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelVelay&theme=default" />
 </a>
 ![56922-code-typing-concept](https://user-images.githubusercontent.com/26851737/150862270-6121d0b0-018b-4e08-8c1a-cab5597a4545.gif)
+![70310-programming-concept-illustration](https://user-images.githubusercontent.com/26851737/150862969-22d9eea6-9ff8-4aed-b4c7-da64bc22486b.gif)
 
