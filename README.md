@@ -11,9 +11,8 @@
 <div size='20px'> Hi! My name is Angel Velay. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://assets6.lottiefiles.com/private_files/lf30_wqypnpu5.json" />
 
 
 - 🎓Recent computer engineer graduate from FES-Aragón|UNAM 
@@ -36,8 +35,7 @@
 <a href= https://github.com/AngelVelay?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
   
 ```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
+const AngelVelay = {
    code: [Javascript,Python, Java,],
    technologies: {
       frontEnd: {
@@ -50,8 +48,8 @@ const aboutMe = {
       },
       databases: ["MongoDB", "MySQL"]]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["Recent graduated,Self-taught person"],
+   challenge: "I'm loking for a place where I can grow professionally while I keep learning..",
 };
 ```
 
