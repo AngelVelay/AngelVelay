@@ -12,7 +12,7 @@
 </div>
 
 
-<img width="40%" height="50%" align="right" alt="Github" src="https://media4.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif?cid=ecf05e47bwqj775wct49o0zfrhxg7jx2572ocvbkcg64lgvn&rid=giphy.gif&ct=g" />
+<img width="30%" height="50%" align="right" alt="Github" src="https://media4.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif?cid=ecf05e47bwqj775wct49o0zfrhxg7jx2572ocvbkcg64lgvn&rid=giphy.gif&ct=g" />
 
 
 - 🎓Recent computer engineer graduate from FES-Aragón | UNAM 
